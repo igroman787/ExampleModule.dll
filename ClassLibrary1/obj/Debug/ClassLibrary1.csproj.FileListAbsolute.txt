@@ -1,0 +1,8 @@
+C:\Users\Igroman787\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Igroman787\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Igroman787\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Igroman787\documents\visual studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Igroman787\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\Igroman787\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\schistory.Form1.resources
+C:\Users\Igroman787\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\schistory.Properties.Resources.resources
+C:\Users\Igroman787\Documents\Visual Studio 2013\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
